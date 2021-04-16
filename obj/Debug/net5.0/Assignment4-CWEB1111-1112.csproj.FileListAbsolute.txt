@@ -1,0 +1,16 @@
+C:\Users\Conno\RiderProjects\Assignment4-CWEB1111-1112\bin\Debug\net5.0\Assignment4-CWEB1111-1112.exe
+C:\Users\Conno\RiderProjects\Assignment4-CWEB1111-1112\bin\Debug\net5.0\Assignment4-CWEB1111-1112.deps.json
+C:\Users\Conno\RiderProjects\Assignment4-CWEB1111-1112\bin\Debug\net5.0\Assignment4-CWEB1111-1112.runtimeconfig.json
+C:\Users\Conno\RiderProjects\Assignment4-CWEB1111-1112\bin\Debug\net5.0\Assignment4-CWEB1111-1112.runtimeconfig.dev.json
+C:\Users\Conno\RiderProjects\Assignment4-CWEB1111-1112\bin\Debug\net5.0\Assignment4-CWEB1111-1112.dll
+C:\Users\Conno\RiderProjects\Assignment4-CWEB1111-1112\bin\Debug\net5.0\ref\Assignment4-CWEB1111-1112.dll
+C:\Users\Conno\RiderProjects\Assignment4-CWEB1111-1112\bin\Debug\net5.0\Assignment4-CWEB1111-1112.pdb
+C:\Users\Conno\RiderProjects\Assignment4-CWEB1111-1112\obj\Debug\net5.0\Assignment4-CWEB1111-1112.csprojAssemblyReference.cache
+C:\Users\Conno\RiderProjects\Assignment4-CWEB1111-1112\obj\Debug\net5.0\Assignment4-CWEB1111-1112.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Conno\RiderProjects\Assignment4-CWEB1111-1112\obj\Debug\net5.0\Assignment4-CWEB1111-1112.AssemblyInfoInputs.cache
+C:\Users\Conno\RiderProjects\Assignment4-CWEB1111-1112\obj\Debug\net5.0\Assignment4-CWEB1111-1112.AssemblyInfo.cs
+C:\Users\Conno\RiderProjects\Assignment4-CWEB1111-1112\obj\Debug\net5.0\Assignment4-CWEB1111-1112.csproj.CoreCompileInputs.cache
+C:\Users\Conno\RiderProjects\Assignment4-CWEB1111-1112\obj\Debug\net5.0\Assignment4-CWEB1111-1112.dll
+C:\Users\Conno\RiderProjects\Assignment4-CWEB1111-1112\obj\Debug\net5.0\ref\Assignment4-CWEB1111-1112.dll
+C:\Users\Conno\RiderProjects\Assignment4-CWEB1111-1112\obj\Debug\net5.0\Assignment4-CWEB1111-1112.pdb
+C:\Users\Conno\RiderProjects\Assignment4-CWEB1111-1112\obj\Debug\net5.0\Assignment4-CWEB1111-1112.genruntimeconfig.cache

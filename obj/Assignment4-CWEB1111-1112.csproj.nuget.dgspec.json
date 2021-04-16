@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Conno\\RiderProjects\\Assignment4-CWEB1111-1112\\Assignment4-CWEB1111-1112.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Conno\\RiderProjects\\Assignment4-CWEB1111-1112\\Assignment4-CWEB1111-1112.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Conno\\RiderProjects\\Assignment4-CWEB1111-1112\\Assignment4-CWEB1111-1112.csproj",
+        "projectName": "Assignment4-CWEB1111-1112",
+        "projectPath": "C:\\Users\\Conno\\RiderProjects\\Assignment4-CWEB1111-1112\\Assignment4-CWEB1111-1112.csproj",
+        "packagesPath": "C:\\Users\\Conno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Conno\\RiderProjects\\Assignment4-CWEB1111-1112\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Conno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "targetAlias": "netcoreapp1.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "targetAlias": "netcoreapp1.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

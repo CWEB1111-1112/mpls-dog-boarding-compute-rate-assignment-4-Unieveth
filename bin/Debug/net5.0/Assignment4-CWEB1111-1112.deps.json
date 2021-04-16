@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Assignment4-CWEB1111-1112/1.0.0": {
+        "runtime": {
+          "Assignment4-CWEB1111-1112.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment4-CWEB1111-1112/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
